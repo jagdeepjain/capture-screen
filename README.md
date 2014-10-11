@@ -16,6 +16,9 @@ Launch your app as http://localhost:9000
 Running Servlet
 ===============
 Go to http://localhost:9000/screen-capture
+
 Click on the link, it will launch the url for the web you would like to capture screen.
+
 Move to http://localhost:9000
+
 Check your screen captured
