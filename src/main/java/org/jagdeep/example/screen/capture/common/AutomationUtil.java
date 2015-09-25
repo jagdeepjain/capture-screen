@@ -1,17 +1,17 @@
 /**
  * 
  */
-package org.util.screen.capture.common;
+package org.jagdeep.example.screen.capture.common;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.List;
 
+import org.jagdeep.example.screen.capture.components.XPaths;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.util.screen.capture.components.XPaths;
 
 /**
  * @author Jagdeep Jain

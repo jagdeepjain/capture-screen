@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.util.screen.capture.components;
+package org.jagdeep.example.screen.capture.components;
 
 /**
  * @author Jagdeep Jain

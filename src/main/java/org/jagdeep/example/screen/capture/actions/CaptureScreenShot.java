@@ -1,4 +1,4 @@
-package org.util.screen.capture.actions;
+package org.jagdeep.example.screen.capture.actions;
 
 import java.io.IOException;
 
@@ -7,12 +7,12 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.jagdeep.example.screen.capture.common.AppConfig;
+import org.jagdeep.example.screen.capture.common.AutomationUtil;
+import org.jagdeep.example.screen.capture.common.ScreenShotMaker;
+import org.jagdeep.example.screen.capture.common.SetupBrowser;
+import org.jagdeep.example.screen.capture.pages.GoogleSearchPage;
 import org.openqa.selenium.WebDriver;
-import org.util.screen.capture.common.AppConfig;
-import org.util.screen.capture.common.AutomationUtil;
-import org.util.screen.capture.common.ScreenShotMaker;
-import org.util.screen.capture.common.SetupBrowser;
-import org.util.screen.capture.pages.GoogleSearchPage;
 
 public class CaptureScreenShot extends HttpServlet {
 

@@ -1,9 +1,9 @@
-package org.util.screen.capture.pages;
+package org.jagdeep.example.screen.capture.pages;
 
+import org.jagdeep.example.screen.capture.components.Buttons;
+import org.jagdeep.example.screen.capture.components.EditBox;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.util.screen.capture.components.Buttons;
-import org.util.screen.capture.components.EditBox;
 
 /**
  * @author Jagdeep Jain

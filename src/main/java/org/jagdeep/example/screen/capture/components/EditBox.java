@@ -1,12 +1,12 @@
 /**
  * 
  */
-package org.util.screen.capture.components;
+package org.jagdeep.example.screen.capture.components;
 
+import org.jagdeep.example.screen.capture.common.AutomationUtil;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.util.screen.capture.common.AutomationUtil;
 
 /**
  * @author Jagdeep Jain

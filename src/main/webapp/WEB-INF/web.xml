@@ -4,7 +4,7 @@
 	version="2.5">
 	<servlet>
 		<servlet-name>ScreenCapture</servlet-name>
-		<servlet-class>org.util.screen.capture.actions.CaptureScreenShot</servlet-class>
+		<servlet-class>org.jagdeep.example.screen.capture.actions.CaptureScreenShot</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ScreenCapture</servlet-name>

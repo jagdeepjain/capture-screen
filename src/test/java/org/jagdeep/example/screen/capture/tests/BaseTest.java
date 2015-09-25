@@ -1,13 +1,10 @@
-/**
- * 
- */
-package org.util.screen.capture.tests;
+package org.jagdeep.example.screen.capture.tests;
 
 import static org.junit.Assert.*;
 
+import org.jagdeep.example.screen.capture.common.AppConfig;
+import org.jagdeep.example.screen.capture.common.SetupBrowser;
 import org.openqa.selenium.WebDriver;
-import org.util.screen.capture.common.AppConfig;
-import org.util.screen.capture.common.SetupBrowser;
 
 /**
  * @author Jagdeep Jain

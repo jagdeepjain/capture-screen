@@ -1,4 +1,4 @@
-package org.util.screen.capture.common;
+package org.jagdeep.example.screen.capture.common;
 
 import java.io.File;
 import java.io.IOException;

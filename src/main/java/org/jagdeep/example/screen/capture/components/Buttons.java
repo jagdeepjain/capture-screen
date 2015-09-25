@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.util.screen.capture.components;
+package org.jagdeep.example.screen.capture.components;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
