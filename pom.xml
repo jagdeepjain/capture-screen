@@ -8,7 +8,7 @@
 	<name>Screen Capture Utility</name>
 	<description>Screen Capture Utility</description>
 	<properties>
-		<jetty.version>7.2.0.v20101020</jetty.version>
+		<jetty.version>9.3.24.v20180605</jetty.version>
 		<jetty.start.port>9000</jetty.start.port>
 		<jetty.stop.port>9001</jetty.stop.port>
 	</properties>
